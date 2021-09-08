@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html> 
 <head>
+    <link rel="stylesheet" href="styles.css" >
     
     <style>
         div {
@@ -11,12 +12,8 @@
         font-style: italic;
         box-shadow: 100px 50px 50px rgb(28, 226, 177);
         background-color: rgb(214, 155, 248)
-        
-        
-    
     }
-
-    </style>
+</style>
     <meta charset="UTF-8">
     <title>> 10 questions about Johnny
 </title>
